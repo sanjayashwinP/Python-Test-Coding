@@ -1,7 +1,7 @@
 # Python-Test-Coding
 
-1)
-Write a Python program which accepts a sequence of comma separated 4 digit
+
+1.Write a Python program which accepts a sequence of comma separated 4 digit
 binary numbers as its input and then check whether they are divisible by 5 or not.
 The numbers that are divisible by 5 are to be printed in a comma separated
 sequence.
@@ -22,8 +22,7 @@ for i in a:
 ### Output
 <img width="840" height="297" alt="image" src="https://github.com/user-attachments/assets/9c8d6515-7832-4c08-ab49-537fb39a7a7c" />
 
-2)
-Write a Python program that accepts a sentence and calculate the number of
+2.Write a Python program that accepts a sentence and calculate the number of
 letters and digits.
 Suppose the following input is supplied to the program:
 hello world! 123
@@ -48,8 +47,7 @@ print("DIGITS ",number);
 ### Output
 <img width="812" height="267" alt="image" src="https://github.com/user-attachments/assets/f6153fa3-5700-4f6a-8c13-96e779ad0df6" />
 
-3)
-Write a program which can compute the factorial of a given numbers.The
+3.Write a program which can compute the factorial of a given numbers.The
 results should be printed in a comma-separated sequence on a single
 line.Suppose the following input is supplied to the program:8
 Then, the output should be:40320
